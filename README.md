@@ -1,1 +1,1 @@
-code on what I coverd in my class at discrete strucutres
+code on what I coverd in my class at discrete structures
